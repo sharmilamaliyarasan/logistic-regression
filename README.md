@@ -1,4 +1,4 @@
-# 🤖 Machine Learning Mini-Projects
+# 🤖 Logistic Regression
 
 This repository demonstrates a collection of supervised learning tasks using different datasets.
 The focus is on Logistic Regression (binary classification) and k-Nearest Neighbors (classification & regression) applied to real-world inspired problems.
